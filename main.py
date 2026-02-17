@@ -36,7 +36,7 @@ def main():
         dt = clock.tick(60)/1000
         updatable.update(dt)
         for drawing in drawable:
-            drawing.draw()
+            drawing.draw(screen)
 
 
 if __name__ == "__main__":
