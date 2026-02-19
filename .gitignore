@@ -16,5 +16,6 @@ wheels/
 Asteroids.code-workspace
 
 #logger output
+game_event.jsonl
 game_state.jsonl
 
