@@ -8,11 +8,13 @@ wheels/
 
 # Virtual environments
 .venv
+
+#vscode generated files
 .vscode
 
 #vscode workspace
 Asteroids.code-workspace
 
-#logger ouput
+#logger output
 game_state.jsonl
 
