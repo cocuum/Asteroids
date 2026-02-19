@@ -10,9 +10,13 @@ LINE_WIDTH = 2
 
 # player magic nums
 PLAYER_RADIUS = 20
+PLAYER_SHOOT_SPEED = 500
 PLAYER_SPEED = 200
 PLAYER_TURN_SPEED = 300
 
 #screen dimensions
 SCREEN_HEIGHT = 720
 SCREEN_WIDTH = 1280
+
+#player can shoot now
+SHOT_RADIUS = 5
